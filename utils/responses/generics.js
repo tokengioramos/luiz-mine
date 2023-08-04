@@ -68,7 +68,7 @@ const genericCommons = [
   "caralho que moderasao merda viu pqp kkk",
   "oq é cp",
   '"ur dur o luiz minecraft me tirou de amigos minha vida acabou"',
-  '""gemte eu to fudendo a familia enteira do cara que me xingou no chat geral do titio orochinho" se fode kkk"',
+  '"gemte eu to fudendo a familia enteira do cara que me xingou no chat geral do titio orochinho" se fode kkk',
   "Minha filha, Luiz Minecraft é pra abrir a mente e não as pernas!!! ✌️🙌💥",
   "como que faz pra deixar o texto branco e grnade",
   "eu vou gozar username favor abrir a boca",
