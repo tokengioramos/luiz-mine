@@ -32,3 +32,6 @@ const menConditionals = [
     messages: ["favor colocar username para adm do servidor"]
   }
 ]
+
+exports.menCommons = menCommons;
+exports.menConditionals = menConditionals;
