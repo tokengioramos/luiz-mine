@@ -30,9 +30,34 @@ const womenCommons = [
   "CHATA PRA CARALHO VAI TOMA NO CU",
   "mulher nao tem direitos",
   "vai se fuder vagabunda",
+  "só apareceu mulher vou sair",
+  "fodase as mulheres",
+  "se mata mulher",
+  "a username é pick me",
+  "você nao é gostosa username",
+  "cala boca mulher não gostosa",
+  "sua desgraçada",
+  "sua vadia",
+  "o que voce disse sua biscate",
+  "eu acho que todas as mulheres desses servidor sao vagabundas",
+  "tu é chata pra caralho sua desgraçada",
+  "sua cearense vagabunda",
+  "ninguem te quer aqui username vagabunda"
 ];
 
 const womenConditionals = [
+  {
+    triggers: ["lui", "luiz", "luis", "luiz minecraft", "@luiz minecraft", "bot"],
+    messages: ["o que tu quer sua vagabunda imprestável"]
+  },
+  {
+    triggers: ["dog", "dogu", "doguinha"],
+    messages: ["username o doguinha quer namorar com você ele ta doido por um bucetão", "doguinha gozou na buceta da username"]
+  },
+  {
+    triggers: ["home", "homi", "ome", "homem", "macho"],
+    messages: ["preconceito contra homem nao é legal ok"]
+  },
   {
     triggers: ["to feliz", "tô feliz"],
     messages: ["alegria de mulher n serve pra nada"],

@@ -53,12 +53,53 @@ const genericCommons = [
   "taxa de homens e mulheres que gostam de voce caiu pra 0%",
   "gente eu acho que",
   "quantos reais pra banir o bruno",
+  "o brunorj é uma merda mesmo pqp",
   "quem é esse tal de username",
   "O username mora na faixa de Gaza e já chupou mais de 26 mil soldados palestinos",
   "transar de ladinho é muito poggers a piroca entrando e saindo kekw ai tu da uma segurada no peitin e dale a metelança mid gap only bota a mão no  pescocinho dale e toma micro diff o foda é só quando o dick escapa da pussy ai é omegalul total",
+  "vai ser uma experiencia muito foda assistir hentai com todos com a cam ligada",
+  "username por favor meu pau esta duro desdurar meu pau com gentileza",
+  "pau no seu cu username",
+  "username faz otra call tomando banho",
+  "mano aquela call do username tomando banho foi muito foda slk",
+  "faz que nem o username faz call tomando banhoKKKKKKKKKKKKKK",
+  "tinha que chamar os random",
+  "ok agora é hora do porno gay",
+  "caralho que moderasao merda viu pqp kkk",
+  "oq é cp",
+  '"ur dur o luiz minecraft me tirou de amigos minha vida acabou"',
+  '""gemte eu to fudendo a familia enteira do cara que me xingou no chat geral do titio orochinho" se fode kkk"',
+  "Minha filha, Luiz Minecraft é pra abrir a mente e não as pernas!!! ✌️🙌💥",
+  "como que faz pra deixar o texto branco e grnade",
+  "eu vou gozar username favor abrir a boca",
+  "para de entrosar",
+  "username favor chupar meu penis",
+  "eu queria zuar"
 ];
 
 const genericConditionals = [
+  {
+    triggers: ["banguelo", "webnamorado", "webnamor"],
+    messages: ["nao pode falar do webnamorado da adm se nao é ban :0"]
+  },
+
+  {
+    triggers: ["manozi", "manoz", "manozinha"],
+    messages: ['e daí a manozinha disse: "vou chorar chupando o pau grosso do seu namorado"']    
+  },
+  {
+    triggers: ["doguinha"],
+    messages: ["o doguinha é homofobico eu sou gay e ele nao me namora"]
+  },
+  {
+    triggers: ["transfobia", "transfobic"],
+    messages: ["eu não sou amigo de gente que apoia transfobia"]
+  },
+
+  {
+    triggers: ["dormi", "dormir"],
+    messages: ["vou dormir", "eu quero dormir"]
+  },
   {
     triggers: ["vou me m", "quero morrer", "quero me m", "vou morrer"],
     messages: ["problema seukkk"],
@@ -76,6 +117,7 @@ const genericConditionals = [
       "RAIDDDDDDDDDDDDDDDDDDD",
       "raid?",
       "É RAID",
+      "pode raid aqui ou nao"
     ],
   },
   {
